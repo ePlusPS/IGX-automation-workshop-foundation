@@ -30,8 +30,15 @@ This workshop provides an introduction or refresher to Git, Python, Ansible and 
    Choose an IDE to work with. Atom integrates will with Git and can be obtained [here](https://atom.io).
  You can get away with Notepad++ or something else if you prefer.
 
-2. Postman
+2. Postman  
    Postman is really good for testing out API calls and converting into python or cURL. Download from [here](https://www.getpostman.com/downloads/).
 
+3. Github  
+   Go to https://github.com and sign up for an account if you don't have one. You'll be creating your own repository and working with the group as a shared project.
 
-[2 Windows Setup](https://github.com/ePlusPS/IGX-automation-workshop-foundation/blob/master/Windows-setup.md)
+4. Slack  
+   You should get an invite to join the slack channel for the workshop. This can be done on the day if you don't get the invite beforehand. You can install the desktop app from [here](https://slack.com/intl/en-gb/downloads).
+
+5. Python, Git etc.  
+   These are OS specific to select the link and follow the instructions  
+   [2 Windows Setup](https://github.com/ePlusPS/IGX-automation-workshop-foundation/blob/master/Windows-setup.md)
