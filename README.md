@@ -26,7 +26,7 @@ This workshop provides an introduction or refresher to Git, Python, Ansible and 
 
 ## Preparation
 
-1. IDE 
+1. IDE  
    Choose an IDE to work with. Atom integrates will with Git and can be obtained [here](https://atom.io).
  You can get away with Notepad++ or something else if you prefer.
 
