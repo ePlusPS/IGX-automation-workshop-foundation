@@ -41,4 +41,5 @@ This workshop provides an introduction or refresher to Git, Python, Ansible and 
 
 5. Python, Git etc.  
    These are OS specific to select the link and follow the instructions  
-   [2 Windows Setup](https://github.com/ePlusPS/IGX-automation-workshop-foundation/blob/master/Windows-setup.md)
+   * [Windows Setup](https://github.com/ePlusPS/IGX-automation-workshop-foundation/blob/master/Windows-setup.md)  
+   * [Mac Setup](https://github.com/ePlusPS/IGX-automation-workshop-foundation/blob/master/Mac-setup.md)  
