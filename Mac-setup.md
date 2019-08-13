@@ -18,7 +18,8 @@
    > \# example output  
    > Homebrew 1.8.2  
 
-   * Install pyenv
+   * Install pyenv  
+   > brew install pyenv
 
    * Install Cask
    > brew tap caskroom/cask
