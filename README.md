@@ -5,7 +5,7 @@ Documentation and code for Network and Security automation foundation workshop
 
 This workshop provides an introduction or refresher to Git, Python, Ansible and REST API. Any tools can be used but the tested environment uses the following:
 
-*Installed in preparation*  
+*Installed in preparation*
 1. Github for git repository
 2. Python 2.x and 3.x
 3. Bash shell (Git bash on Windows)
