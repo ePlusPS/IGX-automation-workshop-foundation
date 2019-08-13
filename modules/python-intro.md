@@ -1,4 +1,4 @@
-# Github Introduction
+# Python Introduction
 
 ## Intro
 
