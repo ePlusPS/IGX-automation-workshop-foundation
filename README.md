@@ -15,8 +15,8 @@ This workshop provides an introduction or refresher to Git, Python, Ansible and 
 7. Postman API client  
 
 *Provided during the workshop*  
-  8. Ansible  
-  9. AWS Linux instances
+   8. Ansible  
+   9. AWS Linux instances
 
 
 ## Agenda
