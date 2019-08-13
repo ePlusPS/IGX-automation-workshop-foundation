@@ -1,9 +1,9 @@
 {
   "contents": [
-    'this is a list',
-    'with',
+    "this is a list",
+    "with",
     5,
-    'items',
+    "items",
     {
       "includingthisdict1": {
         "dictionary2": [
