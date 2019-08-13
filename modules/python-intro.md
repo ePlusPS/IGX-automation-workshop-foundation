@@ -8,6 +8,7 @@
 * tons of resources and modules
 * 2.x and 3.x
 * Documentation
+* file and directory structure
 
 
 ## Usage
@@ -29,6 +30,8 @@
 2. List
 3. Tuple
 4. Dictionary
+5. Int
+6. Float
 
 ## Exercise 2  
 * Create variables
@@ -48,7 +51,7 @@
 
 ## Boiler plate
 
-1. __main__
+1. \__main__
 2. importing modules
 3. writing functions
 4. exceptions
@@ -60,4 +63,4 @@
 * Write output to file
 
 ## Move into the next phase  
-[Data Types](Data_types.md)
+[Data Types](data_types.md)
