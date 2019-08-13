@@ -17,6 +17,7 @@ This workshop provides an introduction or refresher to Git, Python, Ansible and 
 *Provided during the workshop*  
    8. Ansible  
    9. AWS Linux instances
+   10. Virtual network devices
 
 
 ## Agenda
