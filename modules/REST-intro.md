@@ -28,4 +28,4 @@
 * Create script to gather variables
 
 ## Move into the next phase  
-[Ansible Introduction](Ansible-intro.md)
+[Ansible Introduction](ansible-intro.md)
