@@ -1,31 +1,22 @@
-# REST API Introduction
+# Data Types and formats
 
 ## Intro
 
-* What is it
-* Documentation
-* Current usage
+* Basis for most of automation
 
+## Data Types
+1. Dictionaries
+2. Lists
 
-## Postman Usage
-
-1. Postman
-2. cURL
-3. Requests
+## File types
+1. XML
+2. YAML
+3. JSON
+4. Conversion (https://jsonformatter.org/xml-formatter)
 
 ## Exercise 1  
-* Dad Jokes in Postman
-* Test from cURL
-* Run in python requests
-
-## AWS API
-
-1. Documentation
-2. Instances
-3. Starting
-
-## Exercise 2  
-* Create script to gather variables
+* Create file types
+* convert file types
 
 ## Move into the next phase  
 [REST API Introduction](REST-intro.md)
