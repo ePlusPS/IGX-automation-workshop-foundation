@@ -5,10 +5,12 @@
 * What is it
 * Documentation
 * File structure
+* file locations (./ | ~./ | /etc/ansible)
 * Galaxy
 
 ## Exercise 1  
 * Install on ubuntu
+* Create config/hosts files
 * Test locally
 * Gather facts
 
