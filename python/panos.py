@@ -9,7 +9,7 @@ username = input("Device username: ")
 password = getpass("Device password: ")
 
 try:
-    pano = pandevice.panorama.Panorama(hostname, username, password)
-    print(f'Panorama system info: {pano.refresh_system_info()}\n')
+    fw = pandevice.firewall.Firewall(hostname, username, password)
+    print(f'Firewall system info: {pano.refresh_system_info()}\n')
 except:
-    print('Failed to connect to Panorama')
+    print('Failed to connect to Firewall')
