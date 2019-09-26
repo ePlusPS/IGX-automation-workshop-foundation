@@ -4,16 +4,10 @@
   connection: local
   gather_facts: False
 
-  vars_prompt:
-   - name: giveName
-     prompt: "Please provide your name"
-     private: no
-     failed_when: giveName is undefined
-
   tasks:
   - name: Post a message to slack
     uri:
-      url: https://hooks.slack.com/services/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
+      url: https://hooks.slack.com/services/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
       method: POST
       headers:
         Content-Type: "application/json"
@@ -29,17 +23,3 @@
   - name: Show content with debug
     debug:
       var: result.content
-
-- hosts: all
-  remote_user: root
-  gather_facts: yes
-  vars_prompt:
-   - name: giveName
-     prompt: "Please provide your name"
-     private: no
-     failed_when: giveName is undefined
- tasks:
-  - name: Python Execution
-    testing: yourName={{ giveName }}
-    register: result
-  - debug: var=result
